@@ -12,7 +12,7 @@
 - ⚡ Fun fact: *I enjoy debugging more than coding sometimes 😅*
 
 ---
-
+ 
 ### ⚙️ Languages and Tools
 
 #### Programming Languages  
